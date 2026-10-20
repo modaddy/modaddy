@@ -36,7 +36,7 @@ flowchart TD
 
 ## Why the code is private
 
-It runs my life and holds my data. I'm happy to walk you through the architecture and the evaluation layer in 20 minutes: maurice@mauricejames.ai
+It runs my life and holds my data. I'm happy to walk you through the architecture and the evaluation layer in 20 minutes. Reach me through [mauricejames.ai](https://mauricejames.ai).
 
 ## Elsewhere
 
